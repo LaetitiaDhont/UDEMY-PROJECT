@@ -1,0 +1,14 @@
+.logo  {
+	height: 25px;
+	width: 25px;
+}
+.middle
+{
+    background: linear-gradient(-45deg,#ec5252,#6e1a52);
+
+}
+.footer {
+	display: flex;
+	justify-content: space-around;
+}
+      
